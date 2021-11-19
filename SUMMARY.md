@@ -11,7 +11,6 @@
   * [Mele Pin](titan-techs-and-guides/general/mele-pin.md)
 * [Titan](titan-techs-and-guides/titan/README.md)
   * [Ion](titan-techs-and-guides/titan/ion/README.md)
-    * [Guides](titan-techs-and-guides/titan/ion/guides.md)
     * [Vortex Strat](titan-techs-and-guides/titan/ion/vortex-strat.md)
   * [Legion](titan-techs-and-guides/titan/legion.md)
   * [Tone](titan-techs-and-guides/titan/tone.md)
