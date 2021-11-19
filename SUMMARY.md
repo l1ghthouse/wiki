@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome to L1ghthouse!](README.md)
+* [Contributing](contributing.md)
+* [Contact](contact.md)
 
 ## Guides
 
