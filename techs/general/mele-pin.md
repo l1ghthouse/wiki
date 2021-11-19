@@ -12,8 +12,6 @@ description: >-
 notice how ronin mele doesn't register on monarch
 {% endembed %}
 
-Source:&#x20;
-
 {% hint style="info" %}
 Mele Specs:
 
