@@ -17,7 +17,8 @@
 
 ## Techs
 
-* [General](techs/general.md)
+* [General](techs/general/README.md)
+  * [Quick Swap](techs/general/quick-swap.md)
 * [Ion](techs/ion.md)
 * [Legion](techs/legion.md)
 * [Tone](techs/tone.md)
