@@ -6,10 +6,8 @@ description: >-
 
 # Mele Pin
 
-### Guide (4:14-4:48):
-
 {% embed url="https://youtu.be/1YoEikjfHHQ?t=254" %}
-notice how ronin mele doesn't register on monarch
+(4:14-4:48) notice how ronin mele doesn't register on monarch
 {% endembed %}
 
 {% hint style="info" %}
