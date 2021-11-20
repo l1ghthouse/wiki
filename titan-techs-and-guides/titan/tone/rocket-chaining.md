@@ -4,6 +4,6 @@ description: >-
   upon embarking(as long as the target is locked)
 ---
 
-# Rocket Chaining
+# 🟩 Rocket Chaining
 
 {% embed url="https://www.youtube.com/watch?v=zPjroKhr_wA" %}

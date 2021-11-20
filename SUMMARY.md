@@ -1,8 +1,11 @@
 # Table of contents
 
-* [Welcome to L1ghthouse!](README.md)
-* [Contributing](contributing.md)
-* [Contact](contact.md)
+* [Titanfall 2 Titan Game mode Wiki](README.md)
+* [Contributing & Contact](contributing-and-contact.md)
+
+## Before the Gameplay
+
+* [Game Settings](before-the-gameplay/game-settings.md)
 
 ## Titan Techs And Guides
 
@@ -24,14 +27,23 @@
     * [🟩 Pickup Northstar's Tether](titan-techs-and-guides/titan/ion/pickup-northstars-tether.md)
     * [🟥 Increase Vortex Flicker Time](titan-techs-and-guides/titan/ion/increase-vortex-flicker-time.md)
   * [Legion](titan-techs-and-guides/titan/legion/README.md)
-    * [Saving gun shield from arc waves](titan-techs-and-guides/titan/legion/saving-gun-shield-from-arc-waves.md)
-    * [Quick Draw/Stalled Powershot:](titan-techs-and-guides/titan/legion/quick-draw-stalled-powershot.md)
-    * [Hold-Powershot(Extra Powershot)](titan-techs-and-guides/titan/legion/hold-powershot-extra-powershot.md)
-  * [Tone](titan-techs-and-guides/titan/tone/README.md)
-    * [Prime Execution Reload](titan-techs-and-guides/titan/tone/prime-execution-reload.md)
-    * [Orbital Missiles](titan-techs-and-guides/titan/tone/orbital-missiles.md)
-    * [Rocket Chaining](titan-techs-and-guides/titan/tone/rocket-chaining.md)
-  * [Ronin](titan-techs-and-guides/titan/ronin.md)
-  * [Northstar](titan-techs-and-guides/titan/northstar.md)
-  * [Scorch](titan-techs-and-guides/titan/scorch.md)
-  * [Monarch](titan-techs-and-guides/titan/monarch.md)
+    * [🟩 Saving gun shield from arc waves](titan-techs-and-guides/titan/legion/saving-gun-shield-from-arc-waves.md)
+    * [🟩 Quick Draw/Stalled Powershot:](titan-techs-and-guides/titan/legion/quick-draw-stalled-powershot.md)
+    * [🟩 Hold-Powershot(Extra Powershot)](titan-techs-and-guides/titan/legion/hold-powershot-extra-powershot.md)
+  * [Tone](titan-techs-and-guides/titan/tone.md)
+    * [🟩 Prime Execution Reload](titan-techs-and-guides/titan/tone/prime-execution-reload.md)
+    * [🟩 Orbital Missiles](titan-techs-and-guides/titan/tone/orbital-missiles.md)
+    * [🟩 Rocket Chaining](titan-techs-and-guides/titan/tone/rocket-chaining.md)
+  * [Ronin](titan-techs-and-guides/titan/ronin/README.md)
+    * [🟩 Double Stack Arc Wave](titan-techs-and-guides/titan/ronin/double-stack-arc-wave.md)
+    * [🟩 Sword Core Tripwire Glitch](titan-techs-and-guides/titan/ronin/sword-core-tripwire-glitch.md)
+    * [🟥 Sword Block Pierce](titan-techs-and-guides/titan/ronin/sword-block-pierce.md)
+  * [Northstar](titan-techs-and-guides/titan/northstar/README.md)
+    * [🟩 Hover Mechanic](titan-techs-and-guides/titan/northstar/hover-mechanic.md)
+    * [🟩 Hover Spots](titan-techs-and-guides/titan/northstar/hover-spots.md)
+    * [🟩 Moonboots](titan-techs-and-guides/titan/northstar/moonboots.md)
+    * [🟥 Prime Execution](titan-techs-and-guides/titan/northstar/prime-execution.md)
+  * [Scorch](titan-techs-and-guides/titan/scorch/README.md)
+    * [🟩 Thermite Flake Shield Pierce](titan-techs-and-guides/titan/scorch/thermite-flake-shield-pierce.md)
+  * [Monarch](titan-techs-and-guides/titan/monarch/README.md)
+    * [🟩 Survival of the fittest bug](titan-techs-and-guides/titan/monarch/survival-of-the-fittest-bug.md)

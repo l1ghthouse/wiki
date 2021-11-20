@@ -5,6 +5,6 @@ description: >-
   from deleting the shield
 ---
 
-# Saving gun shield from arc waves
+# 🟩 Saving gun shield from arc waves
 
 {% embed url="https://youtu.be/rI11gzFeR2Q" %}

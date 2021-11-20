@@ -1,4 +1,4 @@
-# Quick Draw/Stalled Powershot:
+# 🟩 Quick Draw/Stalled Powershot:
 
 > Stalled Powershot (Legion): With an unspooled Predator Cannon, pressing Powershot and fire will cause the Powershot charge animation to play over the spool animation.
 >
