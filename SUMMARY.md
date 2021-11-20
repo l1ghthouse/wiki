@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Titanfall 2 Titan Game mode Wiki](README.md)
-* [Contributing & Contact](contributing-and-contact.md)
+* [Contributing & Contact](contributing.md)
 
 ## Before the Gameplay
 
@@ -34,16 +34,16 @@
     * [🟩 Prime Execution Reload](titan-techs-and-guides/titan/tone/prime-execution-reload.md)
     * [🟩 Orbital Missiles](titan-techs-and-guides/titan/tone/orbital-missiles.md)
     * [🟩 Rocket Chaining](titan-techs-and-guides/titan/tone/rocket-chaining.md)
-  * [Ronin](titan-techs-and-guides/titan/ronin/README.md)
+  * [Ronin](titan-techs-and-guides/titan/ronin.md)
     * [🟩 Double Stack Arc Wave](titan-techs-and-guides/titan/ronin/double-stack-arc-wave.md)
     * [🟩 Sword Core Tripwire Glitch](titan-techs-and-guides/titan/ronin/sword-core-tripwire-glitch.md)
     * [🟥 Sword Block Pierce](titan-techs-and-guides/titan/ronin/sword-block-pierce.md)
-  * [Northstar](titan-techs-and-guides/titan/northstar/README.md)
+  * [Northstar](titan-techs-and-guides/titan/northstar.md)
     * [🟩 Hover Mechanic](titan-techs-and-guides/titan/northstar/hover-mechanic.md)
     * [🟩 Hover Spots](titan-techs-and-guides/titan/northstar/hover-spots.md)
     * [🟩 Moonboots](titan-techs-and-guides/titan/northstar/moonboots.md)
     * [🟥 Prime Execution](titan-techs-and-guides/titan/northstar/prime-execution.md)
-  * [Scorch](titan-techs-and-guides/titan/scorch/README.md)
+  * [Scorch](titan-techs-and-guides/titan/scorch.md)
     * [🟩 Thermite Flake Shield Pierce](titan-techs-and-guides/titan/scorch/thermite-flake-shield-pierce.md)
-  * [Monarch](titan-techs-and-guides/titan/monarch/README.md)
+  * [Monarch](titan-techs-and-guides/titan/monarch.md)
     * [🟩 Survival of the fittest bug](titan-techs-and-guides/titan/monarch/survival-of-the-fittest-bug.md)

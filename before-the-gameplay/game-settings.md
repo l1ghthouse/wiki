@@ -8,7 +8,7 @@ description: Get a native optimal workspace.
 
 #### Crouch set to mousewheeldown
 
-Because of a very important and meta titan tech; THETECHNAME. Binding Crouch to your mouse's scroll wheel scrolling downwards is recommended.
+Because of a very important [titan tech](../titan-techs-and-guides/general/quick-swap.md), adding a secondary crouch bound to your mouse's scroll wheel is recommended.
 
 ## Audio Settings
 
@@ -18,7 +18,7 @@ The in-game multiplayer dialogue is not important. Lower or mute volume slider.
 
 #### Music Volume (MP)
 
-The in-game multiplayer music is not important. Lower or mute volume slider. ciis
+The in-game multiplayer music is not important. Lower or mute volume slider.
 
 #### Voice Chat Volume (MP)
 
@@ -26,7 +26,7 @@ Many times the open multiplayer voice chat does not provide more value to the ma
 
 **Sound Occlusion**
 
-Make sure&#x20;
+Make sure sound occlusion is disabled to allow you better hear sounds behind obstacles.
 
 
 
