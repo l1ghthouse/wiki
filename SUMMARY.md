@@ -5,6 +5,7 @@
 
 ## Before the Gameplay
 
+* [Understanding the Wiki](before-the-gameplay/understanding-the-wiki.md)
 * [Game Settings](before-the-gameplay/game-settings.md)
 
 ## Titan Techs And Guides
