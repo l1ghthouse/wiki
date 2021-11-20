@@ -5,7 +5,7 @@ description: >-
   enemies. Vortex amplifier could be useful
 ---
 
-# 🟩 Vortex Strat
+# Vortex Strat
 
 {% embed url="https://www.youtube.com/watch?v=n1tQ-D0uLTo" %}
 

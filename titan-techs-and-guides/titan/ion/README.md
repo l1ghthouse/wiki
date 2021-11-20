@@ -7,5 +7,4 @@ Misc Guides:
 
 * [Lasershot/Siphon/Lasercore Splash Damage](../../general/lasershot-siphon-lasercore-splash.md)
 * [Double Lasershot/Siphon](../../general/double-lasershot-siphon.md)
-* [Sword core Tripwire Glitch](../ronin/sword-core-tripwire-glitch.md)
 {% endhint %}
