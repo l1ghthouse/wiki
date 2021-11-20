@@ -12,6 +12,8 @@
 * [Titan](titan-techs-and-guides/titan/README.md)
   * [Ion](titan-techs-and-guides/titan/ion/README.md)
     * [Vortex Strat](titan-techs-and-guides/titan/ion/vortex-strat.md)
+    * [Energy Disembark Recharge](titan-techs-and-guides/titan/ion/energy-disembark-recharge.md)
+    * [Zero-Point Laser Shot](titan-techs-and-guides/titan/ion/zero-point-laser-shot.md)
   * [Legion](titan-techs-and-guides/titan/legion.md)
   * [Tone](titan-techs-and-guides/titan/tone.md)
   * [Ronin](titan-techs-and-guides/titan/ronin.md)
