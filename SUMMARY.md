@@ -7,12 +7,13 @@
 ## Titan Techs And Guides
 
 * [General](titan-techs-and-guides/general/README.md)
-  * [Quick Swap](titan-techs-and-guides/general/quick-swap.md)
+  * [Ordinance Cancel](titan-techs-and-guides/general/ordinance-cancel.md)
   * [Mele Pin](titan-techs-and-guides/general/mele-pin.md)
   * [Ability De-spawning](titan-techs-and-guides/general/ability-de-spawning.md)
   * [Ability Blocking](titan-techs-and-guides/general/ability-blocking.md)
   * [Flame Shield/Vortex Hitbox](titan-techs-and-guides/general/flame-shield-vortex-hitbox.md)
   * [Lasershot/Siphon/Lasercore Splash](titan-techs-and-guides/general/lasershot-siphon-lasercore-splash.md)
+  * [Quick Swap](titan-techs-and-guides/general/quick-swap.md)
   * [⚠ Double Lasershot/Siphon](titan-techs-and-guides/general/double-lasershot-siphon.md)
   * [⚠ Doomskip](titan-techs-and-guides/general/doomskip.md)
 * [Titan](titan-techs-and-guides/titan/README.md)
