@@ -14,6 +14,7 @@
   * [Double Lasershot/Siphon](titan-techs-and-guides/general/double-lasershot-siphon.md)
   * [Flame Shield/Vortex Hitbox](titan-techs-and-guides/general/flame-shield-vortex-hitbox.md)
   * [Lasershot/Siphon/Lasercore Splash](titan-techs-and-guides/general/lasershot-siphon-lasercore-splash.md)
+  * [Doomskip](titan-techs-and-guides/general/doomskip.md)
 * [Titan](titan-techs-and-guides/titan/README.md)
   * [Ion](titan-techs-and-guides/titan/ion/README.md)
     * [🟩 Vortex Strat](titan-techs-and-guides/titan/ion/vortex-strat.md)
