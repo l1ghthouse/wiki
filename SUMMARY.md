@@ -12,7 +12,7 @@
 * [Titan](titan-techs-and-guides/titan/README.md)
   * [Ion](titan-techs-and-guides/titan/ion/README.md)
     * [🟩 Vortex Strat](titan-techs-and-guides/titan/ion/vortex-strat.md)
-    * [🟩 Energy Disembark Recharge](titan-techs-and-guides/titan/ion/energy-disembark-recharge.md)
+    * [🟩 Energy Disembark Refill](titan-techs-and-guides/titan/ion/energy-disembark-refill.md)
     * [🟩 Zero-Point Laser Shot](titan-techs-and-guides/titan/ion/zero-point-laser-shot.md)
     * [🟩 Pickup Northstar's Tether](titan-techs-and-guides/titan/ion/pickup-northstars-tether.md)
     * [🟥 Increase Vortex Flicker Time](titan-techs-and-guides/titan/ion/increase-vortex-flicker-time.md)

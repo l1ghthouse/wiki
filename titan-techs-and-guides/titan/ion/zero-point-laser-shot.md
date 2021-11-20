@@ -1,4 +1,4 @@
-# Zero-Point Laser Shot
+# 🟩 Zero-Point Laser Shot
 
 {% embed url="https://www.youtube.com/watch?v=TO7MX4em6CU" %}
 

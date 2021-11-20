@@ -4,7 +4,9 @@ description: >-
   levels.
 ---
 
-# Energy Disembark Recharge
+# 🟩 Energy Disembark Refill
+
+{% embed url="https://www.youtube.com/watch?v=Kb-ekTZl62k" %}
 
 {% hint style="info" %}
 * Phase embark helps you speed up the process of embarking, and disembarking&#x20;
