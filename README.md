@@ -1,6 +1,7 @@
 ---
 coverY: 0
 description: Competitive Information for true masters of the machine.
+cover: .gitbook/assets/Untitled-1.png
 ---
 
 # Titanfall 2 Titan Game mode Wiki
