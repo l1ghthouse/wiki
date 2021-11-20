@@ -6,7 +6,7 @@ description: Notes for understanding parts of the wiki.
 
 ## Emoji Info:
 
-The :warning: emoji represents techs that are not reproducible or lacks guidance.
+The :warning: emoji represents a tech that is not reproducible or lacks guidance.
 
 ![Warning Sign](../.gitbook/assets/warningicon.png)
 
