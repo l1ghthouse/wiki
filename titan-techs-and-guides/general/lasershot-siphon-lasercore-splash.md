@@ -1,7 +1,7 @@
 ---
 description: >-
   Both Lasershot, Siphon, and Lasercore have splash damage. This means, that it
-  is not necessary for you to exactly git the target. As long as the splash
+  is not necessary for you to exactly hit the target. As long as the splash
   reaches the target, the damage will be dealt.
 ---
 
