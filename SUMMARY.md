@@ -2,6 +2,7 @@
 
 * [Titanfall 2 Titan Game mode Wiki](README.md)
 * [Contributing & Contact](contributing.md)
+* [Credit](credit.md)
 
 ## Before the Gameplay
 
