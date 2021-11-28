@@ -6,7 +6,7 @@ description: List of known and written ways to despawn thermite.
 
 ### Vertex Shield despawning Thermite Canisters upon ignition.
 
-More info linked below.
+{% embed url="https://www.youtube.com/watch?v=dhcrbisjBN4" %}
 
 {% content-ref url="../ion/despawn-ignited-incendiary-traps.md" %}
 [despawn-ignited-incendiary-traps.md](../ion/despawn-ignited-incendiary-traps.md)
