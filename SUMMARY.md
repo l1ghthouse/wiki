@@ -47,6 +47,7 @@
     * [🟩 Moonboots](titan-techs-and-guides/titan/northstar/moonboots.md)
     * [🟥 Prime Execution](titan-techs-and-guides/titan/northstar/prime-execution.md)
   * [Scorch](titan-techs-and-guides/titan/scorch.md)
+    * [🟩 Scorch Reload Cancel](titan-techs-and-guides/titan/scorch/scorch-reload-cancel.md)
     * [🟩 Thermite Flake Shield Pierce](titan-techs-and-guides/titan/scorch/thermite-flake-shield-pierce.md)
   * [Monarch](titan-techs-and-guides/titan/monarch.md)
     * [🟩 Survival of the fittest bug](titan-techs-and-guides/titan/monarch/survival-of-the-fittest-bug.md)

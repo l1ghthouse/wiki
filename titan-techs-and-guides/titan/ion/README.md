@@ -26,7 +26,7 @@ ZPT (Zero-Point Tripwire) is a great kit for its essentially free energy. While 
 
 > Splitter Rifle critical hits restore energy.
 
-Often mixed with Sword Block crit (Critical Hits) gnergy generation glitch can help when damaging a Ronin, fighting multiple titans, or using shield after mag-dumping. Since ion is a forward engagement titan. Getting crits can make Ion's DPS (damage per second) more recognizable.
+Often mixed with Sword Block crit (Critical Hits) energy generation can help when damaging a Ronin, fighting multiple titans, or using shield after mag-dumping. Since ion is a forward engagement titan. Getting crits can make Ion's DPS (damage per second) more recognizable.
 
 ## Tech
 

@@ -11,28 +11,24 @@ description: >-
 {% endembed %}
 
 {% hint style="info" %}
-Mele Specs:
+Sword (Core):
 
-* 500 Damage
-* 5.34m Range&#x20;
-* 0.467s Startup Delay&#x20;
-* 0.8s Total Melee Attack Time&#x20;
-* 20 Degrees of Attack
+* 800 (2200) damage
+* 8.25 meters
+* 45 degrees
+* .9 (.95) second cooldown
+* .43 seconds until hit
+* 22% (80%) less knockback
 
-Ion/Monarch Specific Overrides:
+Punch:
 
-* 0.433s Startup Delay
-
-Ronin Specific Overrides:
-
-* 800 Damage&#x20;
-* 6.19m Range&#x20;
-* 0.5s Startup&#x20;
-* Delay 0.9s&#x20;
-* Total Melee Attack&#x20;
-* Time 45 Degrees of Attack
+* 500 damage
+* 7.11 meters
+* 20 degrees
+* .8 second cooldown
+* .34 seconds until hit
 {% endhint %}
 
 Sources:
 
-1. Mele Spec Source: [https://www.reddit.com/r/titanfall/comments/aak8lb/comment/ecu9j24/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/titanfall/comments/aak8lb/comment/ecu9j24/?context=3) (Thanks Dinorush!)
+1. Mele Spec Source: [https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?context=3) (Thanks Dinorush!)

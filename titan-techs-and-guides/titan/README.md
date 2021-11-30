@@ -30,7 +30,7 @@ Overcore is the safest/best kit. Titan core is a high value factor in a fight. H
 
 > Ronin, Northstar, Monarch, Ion & Tone: 1 extra dash.
 >
-> Scorch & Legion: Reduced dash cooldown.
+> Scorch & Legion: Reduced dash cooldown from 10s to 5s.
 
 Both an extra dash or reduced dash cooldown (from 15 seconds to 8 seconds) can exchange an Overcore Titan Kit in certain situations. Although Ogre type titans lose a lot of team rotational and engagement value without Turbo Engine. Use Turbo Engine for Ogre titans.
 
