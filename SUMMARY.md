@@ -48,6 +48,5 @@
     * [🟥 Prime Execution](titan-techs-and-guides/titan/northstar/prime-execution.md)
   * [Scorch](titan-techs-and-guides/titan/scorch.md)
     * [🟩 Thermite Flake Shield Pierce](titan-techs-and-guides/titan/scorch/thermite-flake-shield-pierce.md)
-    * [🟥 Thermite Despawns](titan-techs-and-guides/titan/scorch/thermite-despawns.md)
   * [Monarch](titan-techs-and-guides/titan/monarch.md)
     * [🟩 Survival of the fittest bug](titan-techs-and-guides/titan/monarch/survival-of-the-fittest-bug.md)
