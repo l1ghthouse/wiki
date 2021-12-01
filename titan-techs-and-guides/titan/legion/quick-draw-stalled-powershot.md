@@ -6,4 +6,10 @@
 >
 > &#x20;\- [comment ](https://www.reddit.com/r/titanfall/comments/l0qvkw/a\_compilation\_of\_tipsmassive\_info\_dump/)by Dinorush
 
+### Stalled Powershot
+
 {% embed url="https://youtu.be/xeU62p34Haw" %}
+
+### Quickdraw Powershot
+
+{% embed url="https://youtu.be/ZLl0WNuVFOY" %}
