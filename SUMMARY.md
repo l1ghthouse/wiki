@@ -12,6 +12,7 @@
 ## Titan Techs And Guides
 
 * [General](titan-techs-and-guides/general/README.md)
+  * [Flame Trap Despawning](titan-techs-and-guides/general/flame-trap-despawning.md)
   * [Ability Cancel](titan-techs-and-guides/general/ability-cancel.md)
   * [Melee Pin](titan-techs-and-guides/general/melee-pin.md)
   * [Ability Despawning](titan-techs-and-guides/general/ability-despawning.md)
