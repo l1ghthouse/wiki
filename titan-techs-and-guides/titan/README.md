@@ -1,30 +1,30 @@
 ---
-description: General Titan Info & Titan Tech under this category.
+description: Titan Tech
 ---
 
 # Titan
 
-### Escaping Destroyed Titan.
+### Escaping Doomed Titan
 
-Ejecting isn't always the best way to escape your titan. When you are unprotected in the sky with Iong range titans. You often risk being killed before getting use from your pilot or simply stay out-of-the-fight too long when you team needs help. You have 2 options for opportunity to fight again.
+Ejecting isn't always the best way to escape your titan. When you are unprotected in the sky against Iong range titans, you often risk being killed before getting use from your pilot or are simply out of the fight for too long when you team needs help. You have 2 options for opportunity to fight again.
 
 #### Ejecting:
 
-Simply. Ejecting can give you great height to move away or towards another fight, line-of-sight to attack enemies with Anti-Titan weapons.
+Ejecting gives you great height to move away or towards another fight and line-of-sight to attack enemies with Anti-Titan weapons.
 
 #### Disembarking:
 
-Simply. Disembarking can override getting executed when finishing executing someone else, confuse the enemy, covers pilot model with explosion visual effect, allow you to get to safety quicker, or let you stay in the fight to help your team.
+Disembarking keeps you low and in place, letting you stay in the fight to help your team or quickly reach cover. If your titan dies simultaneously, it can also confuse the enemy and cover the pilot model with the titan's death explosion visual effect, allowing you to get to safety.
 
-### Titan Kits.
+### Titan Kits
 
-This isn't a absolute value list of the kits. Turbo Engine can be better than Overcore, just as Overcore can be better than Turbo Engine. Now with that.&#x20;
+Turbo Engine and Overcore are almost always superior to all other general titan kits, but neither one is objectively the best. Certain titans and playstyles may prefer one over the other.&#x20;
 
 #### 1. Overcore
 
 > Titan Core always starts with 20% build time.
 
-Overcore is the safest/best kit. Titan core is a high value factor in a fight. Having a headstart to your strongest attack is incredibly strong. Use Overcore if you arent sure.
+Overcore is the safest/best kit. Titan core is a high value factor in a fight; having a headstart to your strongest attack is incredibly strong. Additionally, the base 20% core build gives you smoke immediately after spawning or using core. For non-Ogre titans, this is a safe choice.
 
 #### 2. Turbo Engine
 
@@ -32,4 +32,4 @@ Overcore is the safest/best kit. Titan core is a high value factor in a fight. H
 >
 > Scorch & Legion: Reduced dash cooldown from 10s to 5s.
 
-Both an extra dash or reduced dash cooldown (from 15 seconds to 8 seconds) can exchange an Overcore Titan Kit in certain situations. Although Ogre type titans lose a lot of team rotational and engagement value without Turbo Engine. Use Turbo Engine for Ogre titans.
+The extra dash can be preferrable for titans which have weaker cores, whose kits benefit abnormally from it, or for strategies which value fast/early pushing. For Ogre titans, however, the cooldown reduction is a direct increase to their mobility that enables faster repositioning and more frequent dash pokes. As such, it is almost always preferred over Overcore for Ogres.

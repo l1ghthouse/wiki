@@ -1,10 +1,10 @@
 ---
 description: >-
-  The flakes that come out of scorch's termite launcher upon impact, are able to
-  pierce thru shield
+  The droplets created by Scorch's Thermite Launcher on impact are able to
+  pierce through shields.
 ---
 
-# 🟩 Thermite Flake Shield Pierce
+# 🟩 Thermite Droplet Shield Pierce
 
 {% embed url="https://www.youtube.com/watch?v=Lb6mwPlt9B4" %}
 (0:00-0:07, notice how ion is taking damage, while holding vortex)

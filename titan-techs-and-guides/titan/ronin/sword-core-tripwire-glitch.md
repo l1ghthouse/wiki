@@ -1,7 +1,8 @@
 ---
 description: >-
-  When in Sword core, if ronin is able to hit the tripwire with the sword, the
-  tripwire will deal damage to both ronin, and enemy titans.
+  Meleeing a target and a Tripwire causes the melee to hit the target twice.
+  This is particularly strong for Ronin during Sword Core, as it doubles the
+  already-potent damage of his melees.
 ---
 
 # 🟩 Sword Core Tripwire Glitch
@@ -9,5 +10,5 @@ description: >-
 {% embed url="https://youtu.be/1YoEikjfHHQ?t=7" %}
 
 {% hint style="warning" %}
-As ion, you need to make sure that ronin isn't able to capitalize on your tripwire during sword core.
+As Ion, you need to make sure that Ronin isn't able to capitalize on your Tripwire during Sword Core.
 {% endhint %}

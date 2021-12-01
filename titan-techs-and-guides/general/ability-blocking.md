@@ -1,7 +1,7 @@
 ---
 description: >-
-  Ability Blocking is similar to ability despawning, except that the ability
-  isn't blocked around the place where it spawns.
+  Ability blocking is similar to ability despawning except the ability isn't
+  blocked at its spawn point.
 ---
 
 # Ability Blocking
@@ -9,26 +9,27 @@ description: >-
 {% hint style="info" %}
 Example of abilities that can be blocked:
 
-* Arcwave
-* Flamewall
-* Flame core
+* Arc Wave
+* Firewall
+* Flame Core
 * many more...
 {% endhint %}
 
-For instance, scorches' flame core could be despawned with help of the geometry by blocking all 3 flame core lanes at the same time:
+To block Arc Wave, Firewall, and Flame Core, the wave must be held in place for its remaining duration. Flame Core has 3 waves that must be blocked.
+
+For instance, Scorch's Flame Core can be despawned with help of the geometry by blocking all 3 Flame Core waves at the same time:
 
 {% embed url="https://www.youtube.com/watch?v=Fq89astZvoE" %}
-right most lane blocked by geometry, 2 left lanes blocked by shield
+Right and left waves blocked by geometry, center wave blocked by shield
 {% endembed %}
 
-Example of blocking arcwave with vortex:
+Example of blocking Arc Wave with Vortex:
 
 {% embed url="https://youtu.be/1YoEikjfHHQ?t=78" %}
 (1:18)
 {% endembed %}
 
 {% hint style="info" %}
-* Crouching increases the consistency of blocking the arcwaves.&#x20;
-* Moving while blocking arcwave increases the chance of getting hit by arcwave (1:24)
-* Releasing shield too early will after block will not block the arcwave (1:30)
+* Crouching increases the consistency of blocking waves.&#x20;
+* Moving away or releasing shield too soon will allow the wave to continue and damage the player. (1:24, 1:30)
 {% endhint %}

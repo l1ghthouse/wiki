@@ -1,10 +1,10 @@
 ---
 description: >-
-  Often times ronin will use arcwave to delete legion's shield. Unlike tone,
-  legion has the ability to elevate his shield by looking up, and prevent ronin
-  from deleting the shield
+  Oftentimes Ronin will use Arc Wave to delete Legion's shield. Unlike Tone,
+  Legion has the ability to elevate his shield by looking up and prevent Ronin
+  from deleting the shield.
 ---
 
-# 🟩 Saving gun shield from arc waves
+# 🟩 Saving Gun Shield from Arc Waves
 
 {% embed url="https://youtu.be/rI11gzFeR2Q" %}

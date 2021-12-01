@@ -7,5 +7,5 @@
 {% hint style="info" %}
 Misc Guides:
 
-* While a lot of titans benefit from [Quick Swap](../general/quick-swap.md), ronin benefits from [Quick Swap](../general/quick-swap.md) more than any other titan
+* While many titans benefit from [Quick Swap](../general/quick-swap.md), Ronin benefits from [Quick Swap](../general/quick-swap.md) more than any other titan.
 {% endhint %}

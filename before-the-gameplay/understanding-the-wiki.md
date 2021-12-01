@@ -26,7 +26,7 @@ The :red\_square: emoji represents a tech that will be abused to counter the tit
 
 Spec is a shortening of the word, Specification. Which is referencing Spec Sheet.&#x20;
 
-Spec is precise numbers and data. Most of the time code or proven direct numbers.
+Spec is precise numbers and data. Most of the time from code or proven direct numbers.
 
 #### Ex:
 

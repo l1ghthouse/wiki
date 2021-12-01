@@ -3,5 +3,5 @@
 {% hint style="info" %}
 Misc Guides:
 
-* [Pickup Northstar's Tethers](ion/pickup-northstars-tether.md)
+* [Pickup Northstar's Tethers](ion/pick-up-northstars-tether.md)
 {% endhint %}

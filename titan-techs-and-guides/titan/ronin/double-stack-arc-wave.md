@@ -1,7 +1,7 @@
 ---
 description: >-
-  When Arc waving a titan that is in mid-embark animation, there is a chance to
-  hit the enemy twice with a single arc wave
+  Arc Waving a titan that is mid-embark animation can hit twice: once on the
+  auto-titan, once on the player-embarked titan.
 ---
 
 # 🟩 Double Stack Arc Wave

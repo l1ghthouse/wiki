@@ -2,11 +2,11 @@
 
 ### How? What?
 
-According to the video and inspection. 'Catching' a incendiary canister as its ignited will despawn the canister and its gas/thermite.
+According to the video and inspection. 'Catching' a incendiary canister as it's ignited will despawn the canister and it's gas/thermite.
 
 ### Uses.
 
-&#x20;When trapped with gas incendiary canisters. You can despawn a canister to give you or your team space to  dodge taking thermite damage.
+When trapped with gas incendiary canisters. You can despawn a canister to give you or your team space to dodge taking thermite damage.
 
 ### Video.
 

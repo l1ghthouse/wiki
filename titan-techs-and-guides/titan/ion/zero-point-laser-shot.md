@@ -1,7 +1,13 @@
+---
+description: >-
+  Holding Laser Shot, using Tripwire to drop below 55% energy, and firing Laser
+  Shot causes it to cost 0 energy and have faster recovery.
+---
+
 # 🟩 Zero-Point Laser Shot
 
 {% embed url="https://www.youtube.com/watch?v=TO7MX4em6CU" %}
 
 {% hint style="info" %}
-Often times running zero-point tripwire is still more beneficial, even if you lose the ability to utilize zero-point laser shot glitch. The reason is that this glitch requires your energy levels to become low, which can put ion in a very risky position
+Oftentimes running Zero-Point Tripwire is still more beneficial even though you lose the ability to utilize the Zero-Point Laser Shot glitch. The glitch requires Ion to play at a lower energy level and lower Vortex Shield which is riskier and not as helpful for Ion's frontline role.
 {% endhint %}
