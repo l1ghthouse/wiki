@@ -2,6 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=waXI2sTTeAg" %}
 
-Few spots were missed, and ino added a reference to a few additional spots in his comment section:
+Few spots were missed, and Dinorush added a reference to a few additional spots in his comment section:
 
 {% embed url="https://streamable.com/onccd" %}

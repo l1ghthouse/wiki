@@ -1,4 +1,10 @@
-# 🟩 Quick Draw/Stalled Power Shot:
+---
+description: >-
+  Plays the Power Shot charging animation over the spooling animation and can
+  allow Legion to fire Power Shot sooner from an unspooled state.
+---
+
+# 🟩 Quick Draw/Stalled Power Shot
 
 > Stalled Power Shot (Legion): With an unspooled Predator Cannon, pressing Power Shot and fire will cause the Power Shot charge animation to play over the spool animation.
 >
@@ -13,3 +19,9 @@
 ### Quickdraw Powershot
 
 {% embed url="https://youtu.be/ZLl0WNuVFOY" %}
+
+{% hint style="info" %}
+For a perfect Quickdraw, begin charging at the 50% mark (0.75s) of the ADS animation. Immediate stalls, as previously mentioned, also cause perfect Quickdraws.
+
+Stalled or failed Quickdraw Power Shots are never slower than a normal Power Shot.
+{% endhint %}

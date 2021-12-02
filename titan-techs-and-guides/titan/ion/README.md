@@ -25,6 +25,9 @@ ZPT (Zero-Point Tripwire) is a great kit for its essentially free energy. While 
 #### Entangled Energy
 
 > Splitter Rifle critical hits restore energy.
+>
+> * Normal bullets restore 3% energy.
+> * Split bullets restore 0.8% energy (up to 2.4% total).
 
 The bonus energy generation can help Ion's energy stay afloat in sustained engagements, especially after expending energy on attacks. It is particularly helpful against Ronins as they cannot block their crit without Shields. It generally provides the most benefits for a damage-focused playstyle out of the non-ZPT kits.
 
@@ -32,7 +35,7 @@ The bonus energy generation can help Ion's energy stay afloat in sustained engag
 Note that **Vortex Amplifier** does not affect projectiles. Since it only benefits against Monarch and Legion, it is not recommended for any playstyle. While it may be tempting for those matchups in 1v1s, the recommended kits are generally stronger even then since **Vortex Amplifier** does not help Ion sustain in combat.&#x20;
 {% endhint %}
 
-## Tech
+## Related Tech
 
 ### Laser Shot Splash Damage
 

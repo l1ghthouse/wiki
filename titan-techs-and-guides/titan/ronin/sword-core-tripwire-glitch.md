@@ -1,8 +1,8 @@
 ---
 description: >-
-  Meleeing a target and a Tripwire causes the melee to hit the target twice.
-  This is particularly strong for Ronin during Sword Core, as it doubles the
-  already-potent damage of his melees.
+  Meleeing a target and an enemy Tripwire causes the melee to hit the target
+  twice. This is particularly strong for Sword Core, as it doubles the
+  already-potent damage of its melees.
 ---
 
 # 🟩 Sword Core Tripwire Glitch
