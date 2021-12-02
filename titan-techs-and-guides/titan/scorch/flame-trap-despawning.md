@@ -6,7 +6,7 @@ description: Ways on how to despawn Scorch's flame traps and why it works.
 
 How: By occupying the space that flame traps' projectiles try to spawn at will not allow the thermite to spawn and results in either part of or the entire trap being deleted.
 
-What it works with: Vortex Shield, Flame Shield, Gunshield, Awall, Reinforced Hard Cover, and Partical Wall.
+What it works with: Vortex Shield, Flame Shield, Gunshield, Awall, Reinforced Hard Cover, and Particle Wall.
 
 
 
@@ -14,45 +14,45 @@ Placeholder: behemoth207's updated video
 
 {% tabs %}
 {% tab title="Vortex Shield" %}
-{% file src="../../../.gitbook/assets/adv_no_crouch (1).mov" %}
+{% embed url="https://youtu.be/1EvcXPZdTeU" %}
 
-{% file src="../../../.gitbook/assets/adv_crouch.mov" %}
+{% embed url="https://youtu.be/-24UJmoii4c" %}
 
-{% file src="../../../.gitbook/assets/normal_no_crouch (1).mov" %}
+{% embed url="https://youtu.be/O9e9Tzsfffo" %}
 
-{% file src="../../../.gitbook/assets/normal_crouch (1).mov" %}
+{% embed url="https://youtu.be/EnEeMXVDbE8" %}
 
 
 {% endtab %}
 
 {% tab title="Flame Shield" %}
-{% file src="../../../.gitbook/assets/adv.mov" %}
+{% embed url="https://youtu.be/2tH-ImoKhGk" %}
 
-{% file src="../../../.gitbook/assets/adv_crouch (1).mov" %}
+{% embed url="https://youtu.be/2tH-ImoKhGk" %}
 
-{% file src="../../../.gitbook/assets/normal_full.mov" %}
+{% embed url="https://youtu.be/mk3QddArtlA" %}
 {% endtab %}
 
 {% tab title="Gunshield" %}
-{% file src="../../../.gitbook/assets/adv_no_crouch.mov" %}
+{% embed url="https://youtu.be/hMedoUoAhsM" %}
 
-{% file src="../../../.gitbook/assets/adv_crouch (2).mov" %}
+{% embed url="https://youtu.be/OVGae9F5u5Y" %}
 
-{% file src="../../../.gitbook/assets/normal_no_crouch.mov" %}
+{% embed url="https://youtu.be/9YRiCiP6G5A" %}
 
-{% file src="../../../.gitbook/assets/normal_crouch.mov" %}
+{% embed url="https://youtu.be/C9k9VGNswGw" %}
 {% endtab %}
 
 {% tab title="Awall" %}
 
 
-{% file src="../../../.gitbook/assets/normal.mov" %}
+{% embed url="https://youtu.be/ACjocQQ-diQ" %}
 {% endtab %}
 
 {% tab title="Partical Wall" %}
-{% file src="../../../.gitbook/assets/adv (1).mov" %}
+{% embed url="https://youtu.be/9zmKtT1hA4U" %}
 
-{% file src="../../../.gitbook/assets/normal (1).mov" %}
+{% embed url="https://youtu.be/Vd_ipWUQ2dc" %}
 
 
 {% endtab %}
