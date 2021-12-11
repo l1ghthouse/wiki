@@ -6,7 +6,7 @@ description: The almost best titan.
 
 ## Meta Kits.
 
-Choices higher up in the list are generally a safer and/or less situational option.
+Choices higher up in the list are generally safer and are less situational.
 
 ### Titan Kit:
 
@@ -20,7 +20,7 @@ Starting with an extra 20% core into the progression of one of the strongest cor
 
 > Arc Wave has two charges.
 
-Thunderstorm adding a second Arc wave is great due to arc waves incredible uses. Arc waves are used to keep a opponent still. Gives Ronin more ranged options. Goes under shields. Travel over buildings with map tech. Removing Legion Gun Shield and Tone Particle Shield.
+Adding a second Arc Wave is great due to arc waves incredible uses. Arc waves are used to keep an opponent still. Gives Ronin more ranged options. Goes under shields. Travel over buildings with map tech. Removing Legion Gun Shield and Tone Particle Shield.
 
 #### Temporal Anomaly:
 
@@ -30,16 +30,8 @@ Against better players. Map selection and understanding. Having a shorter Phase 
 
 ## Related Tech:
 
-{% content-ref url="ronin/double-stack-arc-wave.md" %}
-[double-stack-arc-wave.md](ronin/double-stack-arc-wave.md)
-{% endcontent-ref %}
-
-{% content-ref url="ronin/sword-core-tripwire-glitch.md" %}
-[sword-core-tripwire-glitch.md](ronin/sword-core-tripwire-glitch.md)
-{% endcontent-ref %}
-
-{% content-ref url="ronin/sword-block-pierce.md" %}
-[sword-block-pierce.md](ronin/sword-block-pierce.md)
+{% content-ref url="../general/quick-swap.md" %}
+[quick-swap.md](../general/quick-swap.md)
 {% endcontent-ref %}
 
 ## Resources:&#x20;
@@ -51,9 +43,3 @@ Part 1 of Zia Ronin Guide on Youtube
 {% embed url="https://www.youtube.com/watch?v=Ljhbvvxfyqo" %}
 Part 2 of Zia Ronin Guide on Youtube
 {% endembed %}
-
-{% hint style="info" %}
-Misc Guides:
-
-* While many titans benefit from [Quick Swap](../general/quick-swap.md), Ronin benefits from [Quick Swap](../general/quick-swap.md) more than any other titan.
-{% endhint %}
