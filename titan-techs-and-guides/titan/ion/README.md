@@ -8,7 +8,7 @@ Choices higher up in the list are generally a safer and/or less situational opti
 
 #### Overcore:
 
-Extra 20% core can help with minimizing the time and mind games needed to destory the titan with getting to your core faster.
+Extra 20% core can help with minimizing the time and mind games needed to destroy the titan with getting to your core faster.
 
 #### Turbo Engine:
 
@@ -35,7 +35,7 @@ The bonus energy generation can help Ion's energy stay afloat in sustained engag
 Note that **Vortex Amplifier** does not affect projectiles. Since it only benefits against Monarch and Legion, it is not recommended for any playstyle. While it may be tempting for those matchups in 1v1s, the recommended kits are generally stronger even then since **Vortex Amplifier** does not help Ion sustain in combat.&#x20;
 {% endhint %}
 
-## Related Tech
+## Related Tech:
 
 ### Laser Shot Splash Damage
 
