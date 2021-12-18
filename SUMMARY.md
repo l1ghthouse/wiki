@@ -27,7 +27,6 @@
     * [🟩 Energy Disembark Refill](titan-techs-and-guides/titan/ion/energy-disembark-recharge.md)
     * [🟩 Zero-Point Laser Shot](titan-techs-and-guides/titan/ion/zero-point-laser-shot.md)
     * [🟩 Pick up Northstar's Tether](titan-techs-and-guides/titan/ion/pick-up-northstars-tether.md)
-    * [🟩 Despawn Ignited Incendiary Traps](titan-techs-and-guides/titan/ion/despawn-ignited-incendiary-traps.md)
     * [🟥 Increase Vortex Flicker Time](titan-techs-and-guides/titan/ion/increase-vortex-flicker-time.md)
   * [Legion](titan-techs-and-guides/titan/legion/README.md)
     * [🟩 Saving Gun Shield from Arc Waves](titan-techs-and-guides/titan/legion/saving-gun-shield-from-arc-waves.md)
