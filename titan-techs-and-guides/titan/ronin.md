@@ -12,7 +12,7 @@ Choices higher up in the list are generally safer and are less situational.
 
 #### Overcore:
 
-Starting with an extra 20% core into the progression of one of the strongest cores. Serves great postive advantage for you towards the whole fight.&#x20;
+Starting with an extra 20% core toward one of the strongest cores dwarfs the other options available in this slot. Sword Core is especially strong if obtained with enough health to avoid being doomed during its duration, so the headstart has a very significant impact.
 
 ### Ronin Kit:
 
@@ -20,13 +20,13 @@ Starting with an extra 20% core into the progression of one of the strongest cor
 
 > Arc Wave has two charges.
 
-Adding a second Arc Wave is great due to arc waves incredible uses. Arc waves are used to keep an opponent still. Gives Ronin more ranged options. Goes under shields. Travel over buildings with map tech. Removing Legion Gun Shield and Tone Particle Shield.
+Another Arc Wave means more lockdown, damage, and defensive countering, but you don't receive any benefit in sustained combat. The best kit for a passive playstyle that frequently sits on an Arc Wave for a while before committing to an attack or a burst playstyle that wants a heftier payload.&#x20;
 
 #### Temporal Anomaly:
 
 > Phase Dash is available more often (shorter cooldown).
 
-Against better players. Map selection and understanding. Having a shorter Phase Dash cooldown can let you engage, punish, maneuver, disengage, and help you cover more distance in a fight.&#x20;
+A shorter Phase Dash cooldown means more frequent Phase Dashes mid-combat, letting you mitigate more damage or stay in the fight for longer. Preferable to Ronins who play aggressively or are constantly in the action, under fire, especially if you are being focused over teammates.
 
 ## Related Tech:
 
