@@ -2,24 +2,22 @@
 
 ## Meta kits:
 
-Choices higher up in the list are generally a safer and/or less situational option.
+Choices higher up in the list are generally safer and/or less situational.
 
-### Titan Kit:
+#### Titan Kit:
 
-#### Turbo Engine:
+Turbo Engine, Overcore
 
-#### Overcore:
+#### Legion Kit:
 
-### Legion Kit:
+hidden compartment, light weight alloys
 
-#### hidden comp
+## Guides:&#x20;
 
-#### light weight alloys
+{% embed url="https://www.youtube.com/watch?v=DU9IhbXaoGg" %}
 
 ## Related Tech:
 
+#### Smart core increases all of the legion's damage output by 20%
 
-
-## Videos:
-
-{% embed url="https://www.youtube.com/watch?v=DU9IhbXaoGg" %}
+{% embed url="https://youtu.be/h7SzQ8dYrVc" %}
