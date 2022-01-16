@@ -10,7 +10,7 @@ Turbo Engine, Overcore
 
 #### Legion Kit:
 
-hidden compartment, light weight alloys
+Hidden compartment, Enhanced Ammo Capacity, Light Weight Alloys
 
 ## Guides:&#x20;
 
