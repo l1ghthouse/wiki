@@ -32,6 +32,7 @@
     * [🟩 Saving Gun Shield from Arc Waves](titan-techs-and-guides/titan/legion/saving-gun-shield-from-arc-waves.md)
     * [🟩 Quick Draw/Stalled Power Shot](titan-techs-and-guides/titan/legion/quick-draw-stalled-power-shot.md)
     * [🟩 Hold-Power Shot (Extra Power Shot)](titan-techs-and-guides/titan/legion/hold-power-shot-extra-power-shot.md)
+    * [ℹ Smart Core Damage Boost](titan-techs-and-guides/titan/legion/smart-core-damage-boost.md)
   * [Tone](titan-techs-and-guides/titan/tone.md)
     * [🟩 Prime Execution Reload](titan-techs-and-guides/titan/tone/prime-execution-reload.md)
     * [🟩 Orbital Missiles](titan-techs-and-guides/titan/tone/orbital-missiles.md)
