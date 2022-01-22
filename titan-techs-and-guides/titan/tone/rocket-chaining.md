@@ -9,5 +9,5 @@ description: >-
 {% embed url="https://www.youtube.com/watch?v=zPjroKhr_wA" %}
 
 {% hint style="info" %}
-If one of the rockets hits anything before the embark animations plays, then the glitch will be cancelled
+If any of the rockets hit anything before the embark animation play, then the glitch will be canceled
 {% endhint %}
