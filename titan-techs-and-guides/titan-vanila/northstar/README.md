@@ -46,6 +46,6 @@ Enhances Northstar's ability to lock down an area making it more difficult for e
 
 ## Related Tech
 
-{% content-ref url="ion/pick-up-northstars-tether.md" %}
-[pick-up-northstars-tether.md](ion/pick-up-northstars-tether.md)
+{% content-ref url="../ion/pick-up-northstars-tether.md" %}
+[pick-up-northstars-tether.md](../ion/pick-up-northstars-tether.md)
 {% endcontent-ref %}
