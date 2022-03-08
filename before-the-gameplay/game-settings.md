@@ -8,7 +8,7 @@ description: Get a native optimal workspace.
 
 #### Crouch set to mousewheeldown
 
-Because of a very important [titan tech](../titan-techs-and-guides/general/quick-swap.md), adding a secondary crouch bound to your mouse's scroll wheel is recommended.
+Because of a very important [titan tech](../vanilla-titan-tech-and-guides/general/quick-swap.md), adding a secondary crouch bound to your mouse's scroll wheel is recommended.
 
 ## Audio Settings
 
