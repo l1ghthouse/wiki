@@ -27,6 +27,7 @@
     * [🟩 Energy Disembark Refill](titan-techs-and-guides/titan-vanila/ion/energy-disembark-refill.md)
     * [🟩 Zero-Point Laser Shot](titan-techs-and-guides/titan-vanila/ion/zero-point-laser-shot.md)
     * [🟩 Pick up Northstar's Tether](titan-techs-and-guides/titan-vanila/ion/pick-up-northstars-tether.md)
+    * [🟩 ADS Splitter without damage-reducing attachments](vanilla-titan-tech-and-guides/titan/ion/ads-splitter-without-damage-reducing-attachments.md)
     * [🟥 Increase Vortex Flicker Time](titan-techs-and-guides/titan-vanila/ion/increase-vortex-flicker-time.md)
   * [Legion](titan-techs-and-guides/titan-vanila/legion/README.md)
     * [🟩 Saving Gun Shield from Arc Waves](titan-techs-and-guides/titan-vanila/legion/saving-gun-shield-from-arc-waves.md)
