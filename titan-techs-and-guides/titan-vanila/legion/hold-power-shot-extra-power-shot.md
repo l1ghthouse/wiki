@@ -1,4 +1,4 @@
-# 🟩 Hold-Power Shot(Extra Powershot)
+# 🟩 Hold-Power Shot (Extra Power Shot)
 
 {% embed url="https://www.youtube.com/watch?v=F84gP6FAKAo" %}
 

@@ -69,8 +69,8 @@ Tech is stuff you can do to affect a fight. A broad term for doing something.
 
 Ex:&#x20;
 
-{% content-ref url="../vanilla-titan-tech-and-guides/titan/ion/zero-point-laser-shot.md" %}
-[zero-point-laser-shot.md](../vanilla-titan-tech-and-guides/titan/ion/zero-point-laser-shot.md)
+{% content-ref url="../titan-techs-and-guides/titan-vanila/ion/zero-point-laser-shot.md" %}
+[zero-point-laser-shot.md](../titan-techs-and-guides/titan-vanila/ion/zero-point-laser-shot.md)
 {% endcontent-ref %}
 
 Zero-Point Laser Shot takes knowledge, mechanical ability, experience in order to use in a fight.
