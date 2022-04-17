@@ -32,7 +32,7 @@
   * [Legion](titan-techs-and-guides/titan-vanila/legion/README.md)
     * [🟩 Saving Gun Shield from Arc Waves](titan-techs-and-guides/titan-vanila/legion/saving-gun-shield-from-arc-waves.md)
     * [🟩 Hold-Power Shot (Extra Power Shot)](titan-techs-and-guides/titan-vanila/legion/hold-power-shot-extra-power-shot.md)
-    * [🟩 Quick Draw/Stalled Power Shot](titan-techs-and-guides/titan-vanila/legion/quick-draw-stalled-power-shot.md)
+    * [🟩 Quickdraw/Stalled Power Shot](vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-power-shot.md)
     * [ℹ Smart Core Damage Boost](titan-techs-and-guides/titan-vanila/legion/smart-core-damage-boost.md)
   * [Tone](titan-techs-and-guides/titan-vanila/tone/README.md)
     * [🟩 Prime Execution Reload](titan-techs-and-guides/titan-vanila/tone/prime-execution-reload.md)

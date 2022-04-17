@@ -2,7 +2,7 @@
 description: >-
   Meleeing a target and an enemy Tripwire causes the melee to hit the target
   twice. This is particularly strong for Sword Core, as it doubles the
-  already-potent damage of its melees.
+  already-potent melee damage.
 ---
 
 # 🟩 Sword Core Tripwire Glitch

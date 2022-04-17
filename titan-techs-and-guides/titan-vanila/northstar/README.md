@@ -36,7 +36,7 @@ Enables Northstar to use Hover as a horizontal movement tool rather than a purel
 >
 > * Tethers are deployed in a V-shape at an upwards angle, rather than straight ahead.
 
-Enhances Northstar's ability to lock down an area making it more difficult for enemies to push through her lanes, especially when traps are staggered via walls. Especially strong at preventing enemies from chasing and tethering Sword Core more reliably.
+Enhances Northstar's ability to lock down an area, making it more difficult for enemies to push through her lanes, especially when traps are staggered via walls. Especially strong at preventing enemies from chasing and tethering Sword Core more reliably.
 
 {% hint style="info" %}
 * **Viper Thrusters** should not be used on maps with obtrusive ceilings or obstacles where VTOL Hover and Flight Core are stifled, such as Complex.

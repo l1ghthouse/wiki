@@ -6,7 +6,7 @@ description: Ways on how to despawn Scorch's flame traps and why it works.
 
 How: By occupying the space that flame traps' projectiles try to spawn at will not allow the thermite to spawn and results in either part of or the entire trap being deleted.
 
-What it works with: Vortex Shield, Flame Shield, Gunshield, Awall, Reinforced Hard Cover, and Particle Wall.
+What it works with: Vortex Shield, Flame Shield, Gun shield, A-wall, Hard Cover (pilot boost), and Particle Wall.
 
 
 

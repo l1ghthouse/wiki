@@ -1,7 +1,7 @@
 ---
-description: to explain the changes done to the titans.
+description: To explain the changes done to the titans.
 ---
 
 # Titan
 
-this might be the same as spec sheet. the mod is value and ability changes after all?
+This might be the same as the spec sheet. The mod is value and ability changes after all?

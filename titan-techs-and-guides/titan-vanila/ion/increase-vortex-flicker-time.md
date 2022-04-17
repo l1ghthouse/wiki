@@ -1,8 +1,8 @@
 ---
 description: >-
-  If Ion's shield holds something, the time to lower the shield is increased.
-  This can be abused by enemy titans to punish the Ion since the window of
-  opportunity is increased.
+  The time to lower the shield will be increased If it holds something. Since
+  the window of opportunity will be increased, enemy titans can abuse it to
+  punish Ion.
 ---
 
 # 🟥 Increase Vortex Flicker Time

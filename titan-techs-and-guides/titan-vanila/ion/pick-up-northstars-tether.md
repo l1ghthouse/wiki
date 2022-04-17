@@ -13,6 +13,6 @@ description: Ion can pick up an enemy Northstar's tethers from the ground.
 {% endhint %}
 
 {% hint style="warning" %}
-Northstar should attempt to place the tethers where Ion can not pick them up
+Northstar should attempt to place the tethers where Ion cannot pick them up
 {% endhint %}
 

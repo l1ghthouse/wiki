@@ -12,7 +12,7 @@ Choices higher up in the list are generally safer and are less situational.
 
 #### Overcore:
 
-Starting with an extra 20% core toward one of the strongest cores dwarfs the other options available in this slot. Sword Core is especially strong if obtained with enough health to avoid being doomed during its duration, so the headstart has a very significant impact.
+Starting with an extra 20% core toward one of the strongest cores dwarfs the other options available in this slot. Sword Core is especially strong if obtained with enough health to avoid being doomed during its duration, so the head start has a very significant impact.
 
 ### Ronin Kit:
 

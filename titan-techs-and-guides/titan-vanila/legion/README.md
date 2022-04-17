@@ -8,7 +8,7 @@ Choices higher up in the list are generally safer and/or less situational.
 
 #### Turbo Engine:
 
-The 10s second dash cooldown on an ogre is very hard and risky choice. Turbo Engine reducing dash to 5s allows you to engage, disengage, position faster/better, and poke with dashes more freely. The 5s timing also makes the dash cooldown shorter than the Gun Shield uptime, enabling Legion to dash out for a poke safely and retreat just as quickly.
+The 10s second dash cooldown on an ogre is a very hard and risky choice. Turbo Engine reducing dash to 5s allows you to engage, disengage, position faster/better, and poke with dashes more freely. The 5s timing also makes the dash cooldown shorter than the Gun Shield uptime, enabling Legion to dash out for a poke safely and retreat just as quickly.
 
 #### Overcore:
 
@@ -22,11 +22,11 @@ Power Shot is already a highly valued part of Legion's kit. Getting a second cha
 
 #### &#x20;Enhanced Ammo Capacity:
 
-More bullet. More pressure. More wins. Although it can be kited and countered more easily than other kits, the sustain it offers is unmatched and enables Legion to more readily take on matchups governed by his magazine size.
+More bullets. More pressure. More wins. Although it can be kited and countered more easily than other kits, the sustain it offers is unmatched and enables Legion to more readily take on matchups governed by his magazine size.
 
-#### &#x20;Light Weight Alloys:
+#### &#x20;Light-Weight Alloys:
 
-Light Weight Alloys is a great option for applying pressure to enemies. It enables Legion to keep line of sight longer - particularly by corners - or to push/retreat without dropping Predator Cannon, also making farther-out positions and pushes a bit safer and stronger.
+Light-Weight Alloys is a great option for applying pressure to enemies. It enables Legion to keep line of sight longer—particularly by corners—or to push/retreat without dropping Predator Cannon, also making farther-out positions and pushes a bit safer and stronger.
 
 ## Related Tech:
 
@@ -44,8 +44,8 @@ Light Weight Alloys is a great option for applying pressure to enemies. It enabl
 
 ### Quick Draw/Stalled Power Shot
 
-{% content-ref url="quick-draw-stalled-power-shot.md" %}
-[quick-draw-stalled-power-shot.md](quick-draw-stalled-power-shot.md)
+{% content-ref url="../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-power-shot.md" %}
+[quickdraw-stalled-power-shot.md](../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-power-shot.md)
 {% endcontent-ref %}
 
 ## Videos:

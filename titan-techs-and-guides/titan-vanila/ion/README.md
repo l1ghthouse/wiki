@@ -8,7 +8,7 @@ Choices higher up in the list are generally a safer and/or less situational opti
 
 #### Overcore:
 
-Extra 20% core can help with minimizing the time and mind games needed to destroy the titan with getting to your core faster.
+The extra 20% core can help with minimizing the time and mind games needed to destroy the titan with getting to your core faster.
 
 #### Turbo Engine:
 
@@ -29,10 +29,10 @@ ZPT (Zero-Point Tripwire) is a great kit for its essentially free energy. While 
 > * Normal bullets restore 3% energy.
 > * Split bullets restore 0.8% energy (up to 2.4% total).
 
-The bonus energy generation can help Ion's energy stay afloat in sustained engagements, especially after expending energy on attacks. It is particularly helpful against Ronins as they cannot block their crit without Shields. It generally provides the most benefits for a damage-focused playstyle out of the non-ZPT kits.
+The bonus energy-generation can help Ion's energy stay afloat in sustained engagements, especially after expending energy on attacks. It is particularly helpful against Ronins, as they cannot block their weak spot without Shields. It mainly provides the most benefits for a damage-focused playstyle out of the non-ZPT kits.
 
 {% hint style="info" %}
-Note that **Vortex Amplifier** does not affect projectiles. Since it only benefits against Monarch and Legion, it is not recommended for any playstyle. While it may be tempting for those matchups in 1v1s, the recommended kits are generally stronger even then since **Vortex Amplifier** does not help Ion sustain in combat.&#x20;
+Note that **Vortex Amplifier** does not affect projectiles. Since it only benefits against Monarch and Legion, it is not recommended for any playstyle. While it may be tempting for those matchups in 1v1s, the recommended kits are generally stronger even then, since **Vortex Amplifier** does not help Ion sustain in combat.&#x20;
 {% endhint %}
 
 ## Related Tech:
@@ -54,8 +54,6 @@ Note that **Vortex Amplifier** does not affect projectiles. Since it only benefi
 {% content-ref url="../ronin/sword-core-tripwire-glitch.md" %}
 [sword-core-tripwire-glitch.md](../ronin/sword-core-tripwire-glitch.md)
 {% endcontent-ref %}
-
-
 
 ## Videos
 

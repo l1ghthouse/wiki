@@ -18,7 +18,7 @@ The :red\_square: emoji represents a tech that will be abused to counter the tit
 
 ![Red Box Icon](../.gitbook/assets/redboxiconW.png)
 
-The :information\_source: emoji doesn't represent a tech but rather represents info about the titan that isn't well known by most players
+The :information\_source: emoji doesn't represent a tech, but rather represents info about the titan that isn't well known by most players
 
 ![Info Box Icon](../.gitbook/assets/Screenshot\_1.png)
 

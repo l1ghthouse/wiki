@@ -1,7 +1,7 @@
 ---
 description: >-
-  After Tone Prime Execution your magazine automatically set to 10 bullets. This
-  can alleviate the need for reload.
+  After Tone Prime Execution, your magazine automatically set to 10 bullets.
+  This can alleviate the need for reload.
 ---
 
 # 🟩 Prime Execution Reload

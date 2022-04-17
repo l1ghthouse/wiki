@@ -12,7 +12,7 @@ Example of abilities that can be blocked:
 * Arc Wave
 * Firewall
 * Flame Core
-* many more...
+* many more…
 {% endhint %}
 
 To block Arc Wave, Firewall, and Flame Core, the wave must be held in place for its remaining duration. Flame Core has 3 waves that must be blocked.

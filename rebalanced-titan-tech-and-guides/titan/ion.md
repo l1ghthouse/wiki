@@ -1,5 +1,5 @@
 # Ion
 
-Changes: \*the higher up the more important\*\
+Changes: \*the higher up, the more important\* \
 \
-Meta Kits: \*whatever is documented XD\*
+Meta Kits: \*whatever is documented XD\*&#x20;

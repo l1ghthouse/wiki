@@ -1,7 +1,7 @@
 ---
 description: >-
   Disembarking before firing the entirety of the barrage keeps the barrage
-  available upon embarking (as long as the target is locked)
+  available upon embarking (so long the target is locked)
 ---
 
 # 🟩 Rocket Chaining

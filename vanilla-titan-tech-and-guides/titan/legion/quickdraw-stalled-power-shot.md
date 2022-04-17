@@ -1,10 +1,10 @@
 ---
 description: >-
   Plays the Power Shot charging animation over the spooling animation and can
-  allow Legion to fire Power Shot sooner from an unspooled state.
+  allow Legion to fire a Power Shot sooner from an unspooled state.
 ---
 
-# 🟩 Quick Draw/Stalled Power Shot
+# 🟩 Quickdraw/Stalled Power Shot
 
 > Stalled Power Shot (Legion): With an unspooled Predator Cannon, pressing Power Shot and fire will cause the Power Shot charge animation to play over the spool animation.
 >
