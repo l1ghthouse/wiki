@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Titanfall 2 Titan Game mode Wiki](README.md)
+* [Titanfall 2 Titan Game Mode Wiki](README.md)
 * [Contributing & Contact](contributing.md)
 * [Credit](credit.md)
 
