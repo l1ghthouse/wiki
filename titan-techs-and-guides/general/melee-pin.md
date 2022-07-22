@@ -35,4 +35,4 @@ Punch:
 
 Sources:
 
-1. Melee Spec Source: [https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?context=3) (Thanks Dinorush!)
+1. Melee Spec Source: [https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/titanfall/comments/njf1wi/comment/gz7au23/?utm\_source=share\&utm\_medium=web2x\&context=3) (Thanks Dinorush!)
