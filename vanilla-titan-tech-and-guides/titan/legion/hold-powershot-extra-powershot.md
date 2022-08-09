@@ -1,6 +1,12 @@
-# 🟩 Hold-Power Shot (Extra Power Shot)
+---
+description: >-
+  Allows you to store a 2nd (3rd with Hidden Compartment kit) Powershot. To
+  activate, press Powershot right after the screen begins to fade during embark.
+---
 
-{% embed url="https://www.youtube.com/watch?v=F84gP6FAKAo" %}
+# 🟩 Hold-Powershot (Extra Powershot)
+
+{% embed url="https://youtu.be/F84gP6FAKAo" %}
 
 {% hint style="info" %}
 * Just like Ion's energy recharge glitch, this glitch requires you to embark/disembark. Make sure you are aware of your surroundings before performing the glitch and are not sacrificing positional advantage.

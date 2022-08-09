@@ -19,6 +19,6 @@ Max Pilot damage per shot 35>42\
 Max Pilot PS damage 200>240\
 Minimum Pilot PS damage 50>60&#x20;
 
-Those Powershot values are without Hidden Compartment Kit 15% damage reduction.                                                               (CR=Close Range, LR= Long Range, PS= Power Shot)
+Those Powershot values are without Hidden Compartment Kit 15% damage reduction.                                                               (CR=Close Range, LR= Long Range, PS= Powershot)
 
 {% embed url="https://youtu.be/h7SzQ8dYrVc" %}

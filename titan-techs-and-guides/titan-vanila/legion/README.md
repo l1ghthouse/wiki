@@ -38,14 +38,14 @@ Light-Weight Alloys is a great option for applying pressure to enemies. It enabl
 
 ### Extra Power Shot
 
-{% content-ref url="hold-power-shot-extra-power-shot.md" %}
-[hold-power-shot-extra-power-shot.md](hold-power-shot-extra-power-shot.md)
+{% content-ref url="../../../vanilla-titan-tech-and-guides/titan/legion/hold-powershot-extra-powershot.md" %}
+[hold-powershot-extra-powershot.md](../../../vanilla-titan-tech-and-guides/titan/legion/hold-powershot-extra-powershot.md)
 {% endcontent-ref %}
 
 ### Quick Draw/Stalled Power Shot
 
-{% content-ref url="../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-power-shot.md" %}
-[quickdraw-stalled-power-shot.md](../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-power-shot.md)
+{% content-ref url="../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-powershot.md" %}
+[quickdraw-stalled-powershot.md](../../../vanilla-titan-tech-and-guides/titan/legion/quickdraw-stalled-powershot.md)
 {% endcontent-ref %}
 
 ## Videos:
