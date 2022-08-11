@@ -10,7 +10,7 @@ Monarch and Ion can cancel Energy Siphon and Laser Shot respectively to not wast
 (2:55) Monarch is cancelling Siphon since it doesn't have a vision on a target, saving the Siphon for later.
 {% endembed %}
 
-Monarch, Tone, and Northstar can cancel their ordnance abilities. This is primarily useful as a mind-game against Ion, and Ronin.
+Monarch, Tone, and Northstar (Northstar can't mind-game that well) can cancel their ordnance abilities. This is primarily useful as a mind-game against Ion, and Ronin.
 
 {% embed url="https://youtu.be/1YoEikjfHHQ?t=192" %}
 (3:12)

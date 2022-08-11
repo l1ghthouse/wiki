@@ -12,10 +12,11 @@
 ## Vanilla Titan Tech & Guides
 
 * [General](vanilla-titan-tech-and-guides/general/README.md)
-  * [Ability Cancel](titan-techs-and-guides/general/ability-cancel.md)
   * [Melee Pin](titan-techs-and-guides/general/melee-pin.md)
+  * [Ability Cancel](titan-techs-and-guides/general/ability-cancel.md)
   * [Ability Despawning](titan-techs-and-guides/general/ability-despawning.md)
   * [Ability Blocking](titan-techs-and-guides/general/ability-blocking.md)
+  * [Store Ability Glitch](vanilla-titan-tech-and-guides/general/store-ability-glitch.md)
   * [Thermal/Vortex Shield Hitbox](titan-techs-and-guides/general/thermal-vortex-shield-hitbox.md)
   * [Laser Shot/Siphon/Laser Core Splash](titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md)
   * [Quick Swap](titan-techs-and-guides/general/quick-swap.md)
@@ -58,7 +59,10 @@
     * [🟩 Thermite Droplet Shield Pierce](titan-techs-and-guides/titan-vanila/scorch/thermite-droplet-shield-pierce.md)
     * [🟥 Flame Trap Despawning](titan-techs-and-guides/titan-vanila/scorch/flame-trap-despawning.md)
   * [Monarch](titan-techs-and-guides/titan-vanila/monarch/README.md)
+    * [🟩 Instant Dash Rearm](vanilla-titan-tech-and-guides/titan/monarch/instant-dash-rearm.md)
     * [🟩 Survival of the fittest bug](titan-techs-and-guides/titan-vanila/monarch/survival-of-the-fittest-bug.md)
+    * [ℹ MTMS Bug](vanilla-titan-tech-and-guides/titan/monarch/mtms-bug.md)
+    * [ℹ Accelerator Bug](vanilla-titan-tech-and-guides/titan/monarch/accelerator-bug.md)
 
 ## Rebalanced Titan Tech & Guides
 
