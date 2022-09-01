@@ -49,6 +49,7 @@
     * [🟩 Double Stack Arc Wave](titan-techs-and-guides/titan-vanila/ronin/double-stack-arc-wave.md)
     * [🟩 Sword Core Tripwire Glitch](titan-techs-and-guides/titan-vanila/ronin/sword-core-tripwire-glitch.md)
     * [🟥 Sword Block Pierce](titan-techs-and-guides/titan-vanila/ronin/sword-block-pierce.md)
+    * [🟥 Sword Core Whiffs](vanilla-titan-tech-and-guides/titan/ronin/sword-core-whiffs.md)
   * [Northstar](titan-techs-and-guides/titan-vanila/northstar/README.md)
     * [🟩 Hover Mechanic](titan-techs-and-guides/titan-vanila/northstar/hover-mechanic.md)
     * [🟩 Hover Spots](titan-techs-and-guides/titan-vanila/northstar/hover-spots.md)
