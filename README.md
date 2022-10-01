@@ -6,7 +6,7 @@ coverY: 0
 
 # Titanfall 2 Titan Game Mode Wiki
 
-### By and Provided by: LIGHTHOUSE
+### Provided by: LIGHTHOUSE
 
 ## Welcome to the wiki.
 
