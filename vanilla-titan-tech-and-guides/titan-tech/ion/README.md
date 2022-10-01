@@ -39,14 +39,14 @@ Note that **Vortex Amplifier** does not affect projectiles. Since it only benefi
 
 ### Laser Shot Splash Damage
 
-{% content-ref url="../../general/laser-shot-siphon-laser-core-splash.md" %}
-[laser-shot-siphon-laser-core-splash.md](../../general/laser-shot-siphon-laser-core-splash.md)
+{% content-ref url="../../../titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md" %}
+[laser-shot-siphon-laser-core-splash.md](../../../titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md)
 {% endcontent-ref %}
 
 ### Double Laser Shot
 
-{% content-ref url="../../general/double-laser-shot-siphon.md" %}
-[double-laser-shot-siphon.md](../../general/double-laser-shot-siphon.md)
+{% content-ref url="../../../titan-techs-and-guides/general/double-laser-shot-siphon.md" %}
+[double-laser-shot-siphon.md](../../../titan-techs-and-guides/general/double-laser-shot-siphon.md)
 {% endcontent-ref %}
 
 ### Sword Core Tripwire glitch

@@ -2,7 +2,7 @@
 description: Titan Tech
 ---
 
-# Titan
+# Titan Tech
 
 ### Abandoning a Doomed Titan
 
@@ -32,4 +32,4 @@ Overcore is the safest/best kit. Titan core is a high-value factor in a fight; h
 >
 > Scorch & Legion: Reduced dash cooldown from 10s to 5s.
 
-The extra dash can be preferable for titans which have weaker cores, whose kits benefit abnormally from it, or for strategies which value fast/early pushing. For Ogre titans, however, the cooldown reduction is a direct increase to their mobility that enables faster repositioning and more frequent dash pokes. As such, it is almost always preferred over Overcore for Ogres.
+The extra dash can be preferable for titans which have weaker cores, whose kits benefit abnormally from it, or for strategies which value fast/early pushing. For Ogre titans, however, the cooldown reduction is a direct increase to their mobility that enables faster repositioning and more frequent dash pokes. As such, it is almost always preferred over Overcore for Ogres. Ronin nearly always takes Turbo Engine, as having extra health during his Sword Core is incredibly valuable.
