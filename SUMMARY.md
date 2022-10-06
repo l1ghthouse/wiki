@@ -23,6 +23,7 @@
   * [How Titan Abilities Interact](vanilla-titan-tech-and-guides/general/how-titan-abilities-interact.md)
   * [⚠ Double Laser Shot/Siphon](titan-techs-and-guides/general/double-laser-shot-siphon.md)
   * [⚠ Doomskip](titan-techs-and-guides/general/doomskip.md)
+  * [Hidden Titan Kit upsides/downsides](vanilla-titan-tech-and-guides/general/hidden-titan-kit-upsides-downsides.md)
 * [Titan Tech](vanilla-titan-tech-and-guides/titan-tech/README.md)
   * [Ion](vanilla-titan-tech-and-guides/titan-tech/ion/README.md)
     * [🟩 Vortex Strat](vanilla-titan-tech-and-guides/titan-tech/ion/vortex-strat.md)
