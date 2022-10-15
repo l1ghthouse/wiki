@@ -6,36 +6,36 @@ description: >-
 
 # General
 
-{% content-ref url="../../titan-techs-and-guides/general/ability-cancel.md" %}
-[ability-cancel.md](../../titan-techs-and-guides/general/ability-cancel.md)
+{% content-ref url="ordnance-cancel.md" %}
+[ordnance-cancel.md](ordnance-cancel.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../titan-techs-and-guides/general/melee-pin.md" %}
-[melee-pin.md](../../titan-techs-and-guides/general/melee-pin.md)
+{% content-ref url="../../titan-techs-and-guides/general/mele-pin.md" %}
+[mele-pin.md](../../titan-techs-and-guides/general/mele-pin.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../titan-techs-and-guides/general/ability-despawning.md" %}
-[ability-despawning.md](../../titan-techs-and-guides/general/ability-despawning.md)
+{% content-ref url="../../titan-techs-and-guides/general/ability-de-spawning.md" %}
+[ability-de-spawning.md](../../titan-techs-and-guides/general/ability-de-spawning.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../titan-techs-and-guides/general/ability-blocking.md" %}
 [ability-blocking.md](../../titan-techs-and-guides/general/ability-blocking.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../titan-techs-and-guides/general/thermal-vortex-shield-hitbox.md" %}
-[thermal-vortex-shield-hitbox.md](../../titan-techs-and-guides/general/thermal-vortex-shield-hitbox.md)
+{% content-ref url="../../titan-techs-and-guides/general/flame-shield-vortex-hitbox.md" %}
+[flame-shield-vortex-hitbox.md](../../titan-techs-and-guides/general/flame-shield-vortex-hitbox.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md" %}
-[laser-shot-siphon-laser-core-splash.md](../../titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md)
+{% content-ref url="../../titan-techs-and-guides/general/lasershot-siphon-lasercore-splash.md" %}
+[lasershot-siphon-lasercore-splash.md](../../titan-techs-and-guides/general/lasershot-siphon-lasercore-splash.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../titan-techs-and-guides/general/quick-swap.md" %}
 [quick-swap.md](../../titan-techs-and-guides/general/quick-swap.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../titan-techs-and-guides/general/double-laser-shot-siphon.md" %}
-[double-laser-shot-siphon.md](../../titan-techs-and-guides/general/double-laser-shot-siphon.md)
+{% content-ref url="../../titan-techs-and-guides/general/double-lasershot-siphon.md" %}
+[double-lasershot-siphon.md](../../titan-techs-and-guides/general/double-lasershot-siphon.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../titan-techs-and-guides/general/doomskip.md" %}

@@ -17,5 +17,5 @@ Rapid Rearm is meta for LTS, Energy Thief is meta for Titan Brawl. Either is via
 {% hint style="info" %}
 Misc Guides:
 
-* [Lasershot/Siphon/Lasercore Splash](../../../titan-techs-and-guides/general/laser-shot-siphon-laser-core-splash.md)
+* [Lasershot/Siphon/Lasercore Splash](../../../titan-techs-and-guides/general/lasershot-siphon-lasercore-splash.md)
 {% endhint %}

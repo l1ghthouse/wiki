@@ -1,5 +1,5 @@
 ---
-description: Activating/Releasing Crouch cancels weapon lowering animation.
+description: Pressing/releasing crouch cancels weapon lowering animation.
 ---
 
 # Quick Swap

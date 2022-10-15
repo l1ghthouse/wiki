@@ -30,8 +30,8 @@ A shorter Phase Dash cooldown means more frequent Phase Dashes mid-combat, letti
 
 ## Related Tech:
 
-{% content-ref url="../../../titan-techs-and-guides/general/quick-swap.md" %}
-[quick-swap.md](../../../titan-techs-and-guides/general/quick-swap.md)
+{% content-ref url="../../general/quick-swap.md" %}
+[quick-swap.md](../../general/quick-swap.md)
 {% endcontent-ref %}
 
 ## Resources:&#x20;

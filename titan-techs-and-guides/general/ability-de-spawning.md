@@ -1,10 +1,12 @@
 ---
 description: >-
-  Certain abilities have a tendency to be despawned. This is typically achieved
-  by blocking the ability at the place where it first spawns.
+  Certain abilities have a tendency of being despawned. This is typically
+  achieved by blocking the ability at the place where it first spawns.
 ---
 
 # Ability Despawning
+
+
 
 {% embed url="https://youtu.be/1YoEikjfHHQ?t=147" %}
 

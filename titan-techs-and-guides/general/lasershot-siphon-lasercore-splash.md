@@ -1,8 +1,8 @@
 ---
 description: >-
-  Laser Shot, Siphon, and Laser Core have splash damage. It is not necessary for
-  you to hit the target precisely. As long as the splash reaches the target,
-  damage will be dealt.
+  Both Laser Shot, Siphon, and Laser Core have splash damage. This means it is
+  not necessary for you to hit the target exactly. As long as the splash reaches
+  the target, damage will be dealt.
 ---
 
 # Laser Shot/Siphon/Laser Core Splash
@@ -13,5 +13,5 @@ description: >-
 
 {% hint style="info" %}
 * Laser Core's splash damage has falloff. The closer the splash to the target, the more damage it will deal.
-* This can be used in tandem with [Flame Shield/Vortex Hitboxes](thermal-vortex-shield-hitbox.md).
+* This can be used in tandem with [Flame Shield/Vortex Hitboxes](flame-shield-vortex-hitbox.md).
 {% endhint %}

@@ -1,7 +1,7 @@
 ---
 description: >-
-  If titan A lands a melee hit on titan B before titan B's melee hits, then
-  titan B's melee will be completely nullified (cancelled).
+  If titan A lands a melee hit on titan B before titan Bs melee hits titan A,
+  then titan Bs melee will be nullified(cancelled)
 ---
 
 # Melee Pin
